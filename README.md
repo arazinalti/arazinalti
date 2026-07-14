@@ -64,10 +64,4 @@ I am always open to discussing research, exchanging ideas, or collaborating on e
 *   **LinkedIn:** [linkedin.com/in/aboulfazl-soltani-2900963b4](https://www.linkedin.com/in/aboulfazl-soltani-2900963b4)
 *   **Email:** araz.soltani2007@gmail.com
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arazinalti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ⭐️ *"Bridging the gap between industrial hardware and intelligent control systems."*
