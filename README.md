@@ -42,25 +42,4 @@ I am a **2nd-semester Electrical Engineering student** at the **University of Ta
 *   **Automotive Technician** | **Independent Workshop**, Qom
     *   Performed mechanical and electrical diagnostics on vehicle systems, including engines and transmissions.
 
----
-
-### 🚧 Featured Projects
-
-Here are some of the projects that showcase my journey from hardware to software:
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **STM32 Servo Drive Tester** | A portable tool to test servo drives using PWM signals and encoder feedback, born from my industrial repair experience. | `C` `STM32` `Altium` | 🟡 In Progress |
-| **Quadcopter Attitude Control (Sim)** | Simulating a PID controller for UAV roll, pitch, and yaw stabilization in C and MATLAB. | `C` `MATLAB` `Control Theory` | 🔵 Planned |
-| **Blinky with STM32** | My first step into the world of STM32 programming. | `C` `STM32CubeIDE` | ✅ Completed |
-
----
-
-### 🌐 Let's Connect
-
-I am always open to discussing research, exchanging ideas, or collaborating on exciting projects. Feel free to reach out!
-
-*   **LinkedIn:** [linkedin.com/in/aboulfazl-soltani-2900963b4](https://www.linkedin.com/in/aboulfazl-soltani-2900963b4)
-*   **Email:** araz.soltani2007@gmail.com
-
 ⭐️ *"Bridging the gap between industrial hardware and intelligent control systems."*
