@@ -1,15 +1,4 @@
-<table>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" width="100%" style="border-radius:15px"/>
-    </td>
-    <td width="70%">
-      ### 👨‍🎓 About Me
-      
-      I am a **2nd-semester Electrical Engineering student** at the **University of Tabriz**...
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" alt="Aboulfazl Soltani" width="600"/>
 
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
