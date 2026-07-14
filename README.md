@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" alt="Aboulfazl Soltani" width="300" style="border-radius: 100px;" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" alt="Aboulfazl Soltani" width="250" style="border-radius: 50%;" />
+</div>
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
 <p align="center">
