@@ -57,15 +57,6 @@ Here are some of the projects that showcase my journey from hardware to software
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arazinalti&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arazinalti&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 I am always open to discussing research, exchanging ideas, or collaborating on exciting projects. Feel free to reach out!
