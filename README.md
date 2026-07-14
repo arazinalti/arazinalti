@@ -1,5 +1,4 @@
 ![My Profile Image](https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png)
-
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
 <p align="center">
