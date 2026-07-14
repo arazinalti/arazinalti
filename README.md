@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" alt="Aboulfazl Soltani" width="600"/>
+![My Profile Image](https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png)
 
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
