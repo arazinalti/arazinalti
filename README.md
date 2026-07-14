@@ -1,4 +1,6 @@
-![My Profile Image](https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png" alt="Embedded Systems Banner" style="border-radius: 20px; width: 100%; max-width: 900px; box-shadow: 0 4px 10px rgba(0,150,255,0.3);" />
+</p>
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
 <p align="center">
