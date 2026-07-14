@@ -1,5 +1,5 @@
 ![My Profile Image](https://raw.githubusercontent.com/arazinalti/arazinalti/main/11.png)
-<h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
+<h1 align="center">Hi there, I'm Aboulfazl Soltani</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+%26+Industrial+Automation;Robotics+%26+UAV+Control+Enthusiast;Bridging+Hardware+and+Software;From+Industrial+Repair+to+Intelligent+Systems" alt="Typing SVG" />
@@ -13,17 +13,17 @@
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 
 I am a **2nd-semester Electrical Engineering student** at the **University of Tabriz**, with a strong passion for the intersection of **hardware and software**. My journey began in the field with hands-on industrial experience, and I am now channeling that practical knowledge into academic excellence and research.
 
-*   🎯 **Research Interests:** Robotics, Autonomous Systems (UAVs), Embedded Control, and Industrial Automation.
-*   🔧 **Core Skills:** Embedded C, Python, STM32, PCB Design (Altium/Proteus), Control Systems.
-*   💼 **Professional Background:** Industrial electronics repair (Servo Drives, VFDs) and automotive diagnostics.
+*   **Research Interests:** Robotics, Autonomous Systems (UAVs), Embedded Control, and Industrial Automation.
+*   **Core Skills:** Embedded C, Python, STM32, PCB Design (Altium/Proteus), Control Systems.
+*   **Professional Background:** Industrial electronics repair (Servo Drives, VFDs) and automotive diagnostics.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | **Category** | **Skills & Technologies** |
 | :--- | :--- |
@@ -35,7 +35,7 @@ I am a **2nd-semester Electrical Engineering student** at the **University of Ta
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 *   **Industrial Electronics Technician (Intern)** | **Pillar Sanat Co.** , Qom
     *   Diagnosed and repaired industrial PCBs, servo drives, and VFDs. Gained deep insight into the practical challenges of industrial automation.
@@ -43,4 +43,4 @@ I am a **2nd-semester Electrical Engineering student** at the **University of Ta
 *   **Automotive Technician** | **Independent Workshop**, Qom
     *   Performed mechanical and electrical diagnostics on vehicle systems, including engines and transmissions.
 
-⭐️ *"Bridging the gap between industrial hardware and intelligent control systems."*
+*"Bridging the gap between industrial hardware and intelligent control systems."*
