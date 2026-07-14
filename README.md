@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aboulfazl Soltani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FF7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Embedded+Systems+Enthusiast;Robotics+%26+UAV+Researcher;Industrial+Electronics+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9FF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+%26+Industrial+Automation;Robotics+%26+UAV+Control+Enthusiast;Bridging+Hardware+and+Software;From+Industrial+Repair+to+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,14 @@
 
 ### 👨‍🎓 About Me
 
-I am a **2nd-semester Electrical Engineering student** at the **University of Tabriz**, with a strong passion for the intersection of **hardware and software**. My journey began in the field with hands-on industrial experience, and I am now channeling that practical knowledge into academic excellence and research.
+I am an aspiring **Embedded Systems and Robotics engineer** with a unique background: I started my career in **industrial electronics repair** (servo drives, VFDs) and am now pursuing formal education in Electrical Engineering at the **University of Tabriz**. 
 
-*   🎯 **Research Interests:** Robotics, Autonomous Systems (UAVs), Embedded Control, and Industrial Automation.
-*   🔧 **Core Skills:** Embedded C, Python, STM32, PCB Design (Altium/Proteus), Control Systems.
-*   💼 **Professional Background:** Industrial electronics repair (Servo Drives, VFDs) and automotive diagnostics.
-*   🇩🇪 **Current Goal:** Pursuing German language proficiency (A2 → B1) and aiming for Master's studies in Germany, particularly at **TU Munich**.
+This hands-on experience gives me a **practical perspective** that many pure-academic students lack. I don't just write code—I understand the hardware it runs on.
+
+*   🎯 **Research Interests:** Real-time control systems, UAV autopilots, sensor fusion, and industrial automation.
+*   🔧 **Core Skills:** Embedded C, STM32, PCB Design (Altium/Proteus), Control Theory.
+*   💼 **Professional Background:** 2+ years of experience in industrial electronics repair and automotive diagnostics.
+*   🇩🇪 **Current Goal:** Mastering German (A2 → B1) and preparing for Master's studies in Germany, particularly at **TU Munich**.
 
 ---
 
@@ -27,9 +29,9 @@ I am a **2nd-semester Electrical Engineering student** at the **University of Ta
 
 | **Category** | **Skills & Technologies** |
 | :--- | :--- |
-| **Programming** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Embedded & MCUs** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **PCB & Simulation** | ![Altium Designer](https://img.shields.io/badge/Altium-FF5918?style=flat-square&logo=altiumdesigner&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-005C9A?style=flat-square&logo=proteus&logoColor=white) |
+| **Programming** | C, Python |
+| **Embedded & MCUs** | STM32, Arduino |
+| **PCB & Simulation** | Altium Designer, Proteus |
 | **Industrial** | VFDs, Servo Drives, PLC Basics (Siemens), Automation Systems |
 | **Other Tools** | MATLAB, Git, ROS (Learning) |
 
@@ -51,9 +53,9 @@ Here are some of the projects that showcase my journey from hardware to software
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **STM32 Servo Drive Tester** | A portable tool to test servo drives using PWM signals and encoder feedback, born from my industrial repair experience. | `C` `STM32` `Altium` | 🟡 In Progress |
-| **Quadcopter Attitude Control (Sim)** | Simulating a PID controller for UAV roll, pitch, and yaw stabilization in C and MATLAB. | `C` `MATLAB` `Control Theory` | 🔵 Planned |
-| **Blinky with STM32** | My first step into the world of STM32 programming. | `C` `STM32CubeIDE` | ✅ Completed |
+| **STM32 Servo Drive Tester** | A portable tool to test servo drives using PWM signals and encoder feedback, born from my industrial repair experience. | C, STM32, Altium | 🟡 In Progress |
+| **Quadcopter Attitude Control (Sim)** | Simulating a PID controller for UAV roll, pitch, and yaw stabilization in C and MATLAB. | C, MATLAB, Control Theory | 🔵 Planned |
+| **Blinky with STM32** | My first step into the world of STM32 programming. | C, STM32CubeIDE | ✅ Completed |
 
 ---
 
