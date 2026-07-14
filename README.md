@@ -19,7 +19,6 @@ I am a **2nd-semester Electrical Engineering student** at the **University of Ta
 *   🎯 **Research Interests:** Robotics, Autonomous Systems (UAVs), Embedded Control, and Industrial Automation.
 *   🔧 **Core Skills:** Embedded C, Python, STM32, PCB Design (Altium/Proteus), Control Systems.
 *   💼 **Professional Background:** Industrial electronics repair (Servo Drives, VFDs) and automotive diagnostics.
-*   🇩🇪 **Current Goal:** Pursuing German language proficiency (A2 → B1) and aiming for Master's studies in Germany, particularly at **TU Munich**.
 
 ---
 
